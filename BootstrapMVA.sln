@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloBootstrap", "HelloBoot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicStoreHtml", "MusicStoreHtml\MusicStoreHtml.csproj", "{707141FB-399D-407D-BEA9-E4FB13BEFD5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomScaffolding", "CustomScaffolding\CustomScaffolding.csproj", "{27FD18EC-6498-4308-AF9F-BA558B5A59BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{707141FB-399D-407D-BEA9-E4FB13BEFD5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{707141FB-399D-407D-BEA9-E4FB13BEFD5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{707141FB-399D-407D-BEA9-E4FB13BEFD5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FD18EC-6498-4308-AF9F-BA558B5A59BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FD18EC-6498-4308-AF9F-BA558B5A59BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FD18EC-6498-4308-AF9F-BA558B5A59BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FD18EC-6498-4308-AF9F-BA558B5A59BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
